@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--
+    * Author:         BeiYuu, Mukosame
+    * Revised:        SophieMEN
+    -->
+    <meta charset="utf-8" />
+    <title>Hello, blog world! | SophieMEN's Blog</title>
+    <meta name="author" content="SophieMEN" />
+    <meta name="renderer" content="webkit">
+    <meta name="description" content="From VISUALIZATION to INSPIRATION" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="/css/default.css" type="text/css" />
+    <link rel="shortcut icon" type="image/png" href="/favicon.png">
+    <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="/atom.xml" />
+    <script src="/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+</head>
+<body>
+
+    <div class="home-menu">
+        <div class="home-icon-con">
+            <a class="home-menu-icon" href="/">SophieMEN</a>
+            <a class="home-follow" href="#" title="Contact Me">+</a>
+        </div>
+        <div class="home-contact">
+            <a href="https://github.com/SophieMEN/" target="_blank" style="margin-left:-5px;"><img src="https://github.com/favicon.ico" alt="" width="22"/></a>
+            <a href="http://www.douban.com/people/sophie_men/" target="_blank" style="text-align:center;"><img src="http://www.douban.com/favicon.ico" alt="" width="22"/></a>
+            <a href="http://www.zhihu.com/people/sophie-men" target="_blank" style="text-align:right"><img src="http://www.zhihu.com/favicon.ico" alt="" width="22"/></a>
+        </div>
+    </div>
+
+    <link rel="stylesheet" href="/js/prettify/prettify.css" />
+<style type="text/css">
+    body { background:#e8e8e8; }
+    @media screen and (max-width: 750px){
+        body { background:#fff; }
+    }
+    @media screen and (max-width: 1020px){
+        body { background:#fff; }
+    }
+</style>
+
+<div id="content">
+    <div class="entry">
+        <h1 class="entry-title"><a href="/hello-world" title="Hello, blog world!">Hello, blog world!</a></h1>
+        <p class="entry-date">2016-06-03</p>
+        <h3>0.1基础</h3>
+
+<ul>
+<li>前端0.1基础。正数部分得益于毕设使用d3.js进行可视化时学到的一点皮毛，不过好在用jekyll并不需要对前端多深的理解，大概明白是怎么回事儿，知道应该去哪儿改什么东西就好。</li>
+<li>git 0基础。感谢gxy师兄解决了我的小白问题。</li>
+</ul>
+
+
+<h3>第一步</h3>
+
+<ul>
+<li>搭博客的过程就像是刚刚发现了一个新玩具，玩得停不下来，兴奋极了。形式方面，现在的博客基本是我想要的样子（我喜欢这个风格，也不想要太多功能），之后应该只会找个词替掉”Dump“，以及改一些小bug（比如左上角点+号后Github的icon看不清）。</li>
+<li>希望以后能逐渐补充一些原创的、值得分享的内容。</li>
+</ul>
+
+
+<h3>鸣谢</h3>
+
+<ul>
+<li>感谢本站模板的原作者<a href="https://github.com/beiyuu">@Beiyuu</a>及改进者<a href="https://github.com/Mukosame">@Mukosame</a>。</li>
+<li>感谢大珍。侧边栏图片均为大珍作品，更多美图请访问<a href="https://tysong.tuchong.com/">宋天瑜的图虫主页</a>。</li>
+</ul>
+
+
+    </div>
+
+    <div class="sidenav">
+        <h2>Blog</h2>
+        <ul class="artical-list">
+        
+            <li><a href="/hello-world">Hello, blog world!</a></li>
+        
+            <li><a href="/first-team-blog">Hello, we are Dream Team!</a></li>
+        
+        </ul>
+
+        <h2>Dump</h2>
+        <ul class="artical-list">
+        
+        </ul>
+
+        <h2>Project</h2>
+        <ul class="artical-list">
+        
+        </ul>
+    </div>
+</div>
+
+<script src="/js/post.js" type="text/javascript"></script>
+
+
+    <script type="text/javascript">
+        $(function(){
+            $('.home-follow').click(function(e){
+                e.preventDefault();
+
+                if($('.home-contact').is(':visible')){
+                    $('.home-contact').slideUp(100);
+                }else{
+                    $('.home-contact').slideDown(100);
+                }
+            });
+        })
+    </script>
+</body>
+</html>
