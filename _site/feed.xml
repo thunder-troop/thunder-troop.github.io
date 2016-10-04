@@ -8,6 +8,19 @@
 		
 			
 			<item>
+				<title>Hello, blog world!</title>
+				
+					<description>&lt;h3&gt;0.1基础&lt;/h3&gt;
+</description>
+				
+				<pubDate>Fri, 03 Jun 2016 00:00:00 +0800</pubDate>
+				<link>http://mukosame.github.io/hello-world</link>
+				<guid isPermaLink="true">http://mukosame.github.io/hello-world</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>Hello, we are Dream Team!</title>
 				
 					<description>&lt;h3&gt;组建&lt;/h3&gt;
