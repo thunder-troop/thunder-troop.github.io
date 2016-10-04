@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 匠心
+title: 工作剪影
 category: project
 description: Dinge von Hand gemacht.
 ---

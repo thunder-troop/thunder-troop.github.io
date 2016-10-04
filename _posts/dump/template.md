@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 不语
+title: 学习交流
 category: dump
 description: Die Erkenntnis.
 ---
