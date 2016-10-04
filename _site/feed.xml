@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title> - Articles</title>
-		<description>From VISUALIZATION to INSPIRATION</description>
-		<link>http://mukosame.github.io</link>
-		<atom:link href="http://mukosame.github.io/feed.articles.xml" rel="self" type="application/rss+xml" />
+		<description>Workspace of Thunder Troop</description>
+		<link>http://thunder-troop.github.io</link>
+		<atom:link href="http://thunder-troop.github.io/feed.articles.xml" rel="self" type="application/rss+xml" />
 		
 			
 			<item>
@@ -14,8 +14,8 @@
 </description>
 				
 				<pubDate>Fri, 03 Jun 2016 00:00:00 +0800</pubDate>
-				<link>http://mukosame.github.io/hello-world</link>
-				<guid isPermaLink="true">http://mukosame.github.io/hello-world</guid>
+				<link>http://thunder-troop.github.io/hello-world</link>
+				<guid isPermaLink="true">http://thunder-troop.github.io/hello-world</guid>
 			</item>
 			
 		
@@ -27,8 +27,8 @@
 </description>
 				
 				<pubDate>Fri, 03 Jun 2016 00:00:00 +0800</pubDate>
-				<link>http://mukosame.github.io/first-team-blog</link>
-				<guid isPermaLink="true">http://mukosame.github.io/first-team-blog</guid>
+				<link>http://thunder-troop.github.io/first-team-blog</link>
+				<guid isPermaLink="true">http://thunder-troop.github.io/first-team-blog</guid>
 			</item>
 			
 		
