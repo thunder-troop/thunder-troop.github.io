@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello, we are Dream Team!
+title: Hello, we are Thunder Troop!
 category: blog
 description: 团队的第一篇博客
 
