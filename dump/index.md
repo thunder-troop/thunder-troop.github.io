@@ -25,4 +25,10 @@ layout: home
     </div>
     <div class="aside">
     </div>
+    <div class="friend-site-list">
+            Friend Site:
+            <a class="friend-site" href="https://www.baidu.com">Group1</a> 
+            <a class="friend-site" href="https://www.zhihu.com">Group2</a>
+            <a class="friend-site" href="https://www.163.com">Group3</a>            
+    </div>
 </div>
