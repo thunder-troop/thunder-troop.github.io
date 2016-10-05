@@ -8,9 +8,30 @@
 		
 			
 			<item>
+				<title>第三次会议记录</title>
+				
+					<description>&lt;h3&gt;工作进度&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;李志远：已完成甘特图制作；督促团队成员按甘特图开展工作。&lt;/li&gt;
+&lt;li&gt;门畅：已完成网站设计及框架搭建。&lt;/li&gt;
+&lt;li&gt;刘智灵：已经完成需求分析、系统设计。&lt;/li&gt;
+&lt;li&gt;邓阳：学习视频剪辑及制作；活动记录及拍照。&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				
+				<pubDate>Wed, 05 Oct 2016 00:00:00 +0800</pubDate>
+				<link>http://thunder-troop.github.io/third-meeting</link>
+				<guid isPermaLink="true">http://thunder-troop.github.io/third-meeting</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>md文件发布指南</title>
 				
-					<description>&lt;h3&gt;0.流程&lt;/h3&gt;
+					<description>&lt;h3&gt;0. 流程&lt;/h3&gt;
 </description>
 				
 				<pubDate>Mon, 03 Oct 2016 00:00:00 +0800</pubDate>
