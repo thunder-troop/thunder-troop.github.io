@@ -186,6 +186,32 @@
 		
 			
 			<item>
+				<title>第二次会议记录</title>
+				
+					<description>&lt;h3&gt;需求分析&lt;/h3&gt;
+</description>
+				
+				<pubDate>Fri, 30 Sep 2016 00:00:00 +0800</pubDate>
+				<link>http://thunder-troop.github.io/second-meeting</link>
+				<guid isPermaLink="true">http://thunder-troop.github.io/second-meeting</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>个人介绍</title>
+				
+					<description>
+</description>
+				
+				<pubDate>Fri, 30 Sep 2016 00:00:00 +0800</pubDate>
+				<link>http://thunder-troop.github.io/self-introduction</link>
+				<guid isPermaLink="true">http://thunder-troop.github.io/self-introduction</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>Hello, we are Thunder Troop!</title>
 				
 					<description>&lt;h3&gt;组建&lt;/h3&gt;
@@ -194,6 +220,19 @@
 				<pubDate>Fri, 30 Sep 2016 00:00:00 +0800</pubDate>
 				<link>http://thunder-troop.github.io/first-team-blog</link>
 				<guid isPermaLink="true">http://thunder-troop.github.io/first-team-blog</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>第一次会议记录</title>
+				
+					<description>&lt;h3&gt;自我介绍&lt;/h3&gt;
+</description>
+				
+				<pubDate>Mon, 26 Sep 2016 00:00:00 +0800</pubDate>
+				<link>http://thunder-troop.github.io/first-meeting</link>
+				<guid isPermaLink="true">http://thunder-troop.github.io/first-meeting</guid>
 			</item>
 			
 		
