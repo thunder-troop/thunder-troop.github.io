@@ -17,10 +17,12 @@
     <script src="/js/jquery-1.7.1.min.js" type="text/javascript"></script>
 </head>
 <body>
-
+    <div class = "home-logo">
+    <a href="/" target="_blank" style="margin-left:-5px;" title="Home"><img src="/favicon.png" alt="" width="38"/></a>
+    </div>
     <div class="home-menu">
         <div class="home-icon-con">
-            <a class="home-menu-icon" href="/">Thunder Troop</a>
+            <a class="home-menu-icon" href="/" title="Home">Thunder Troop</a>
             <a class="home-follow" href="https://github.com/thunder-troop/" title="Contact Us">+</a>
         </div>
     </div>
@@ -41,11 +43,11 @@
     <div class="entry">
         <h1 class="entry-title"><a href="/md-to-post" title="md文件发布指南">md文件发布指南</a></h1>
         <p class="entry-date">2016-10-03</p>
-        <h3>0. 流程</h3>
+        <h2>0. 流程</h2>
 
 <p>将需要提交的.md文件按照类别置于对应的文件夹内，按照命名规范对文件命名，加入文件头，git add  -> git commit  ->  git push</p>
 
-<h3>1. 位置</h3>
+<h2>1. 位置</h2>
 
 <p>../blog/    团队介绍类</p>
 
@@ -53,13 +55,13 @@
 
 <p>../project/  工作剪影类</p>
 
-<h3>2. 命名规范</h3>
+<h2>2. 命名规范</h2>
 
 <p>yyyy-mm-dd-name.md</p>
 
 <p>其中，yyyy-mm-dd为显示的发布日期，name为文章名</p>
 
-<h3>3. 文件头</h3>
+<h2>3. 文件头</h2>
 
 <pre><code>---
 layout: post
