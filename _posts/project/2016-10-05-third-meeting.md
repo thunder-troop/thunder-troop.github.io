@@ -2,7 +2,7 @@
 layout: post
 title: 第三次会议记录
 category: project
-description: 10月6日第三次小组会议内容记录，包括进度汇报、工作安排
+description: 10月5日第三次小组会议内容记录，包括进度汇报、工作安排
 
 ---
 
