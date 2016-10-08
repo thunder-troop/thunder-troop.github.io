@@ -7,7 +7,9 @@ description: 团队的第一篇博客
 ---
 
 #Hello,We are the
+
 #<font color=orange>THUNDER TROOOOOOOOP!!!</font>
+
 
 ###小组成员
 李志远、刘智灵、门畅、邓阳
@@ -18,9 +20,12 @@ description: 团队的第一篇博客
 ![team2](http://oegmqf69m.bkt.clouddn.com/%E3%80%90%E5%B0%8F%E7%BB%84%E4%BB%8B%E7%BB%8D%E3%80%913.JPG)
 
 ##小组名称
+<font color=orange size=5 face="黑体">Thunder Troop</font>
+
+##小组Logo
 ![logo](http://oegmqf69m.bkt.clouddn.com/logo.png)
 
-<font color=orange size=5 face="黑体">Thunder Troop</font>
+
 
 ###小组简介
 我们小组由三名自动化系的同学和一名生医的同学组成，大家在应用软件的课堂上相识相知。我们建立了小组微信群，大家在里面说说学习，聊聊科研，谈笑风生，努力提高姿势水平～(￣▽￣～)(～￣▽￣)～
